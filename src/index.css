@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a.active {
+  padding: 2px 15px 2px 15px;
+  background-color: rgb(28, 31, 28);
+  color: white;
+  border-radius: 5px;
+}
+
+a.active hr {
+  display: block;
+}
+
+*{
+  font-family: "Josefin Sans", sans-serif;
+}
