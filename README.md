@@ -21,3 +21,7 @@ Tailwind – Styling
 JavaScript – Logic and functionality
 
 📸 Screenshots
+![Image](https://github.com/user-attachments/assets/fee5a782-2bed-48f2-b194-a1ef69e691a3)
+![Image](https://github.com/user-attachments/assets/93e31431-5163-4835-be9c-d5f61f1382cd)
+![Image](https://github.com/user-attachments/assets/bcc4b4d8-f1d2-4532-b4af-38532d94b280)
+![Image](https://github.com/user-attachments/assets/86a483a5-eaa0-4e89-874a-ec70daa523b8)
